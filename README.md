@@ -26,7 +26,7 @@ I'm Gabriel Goulis, a developer with an interest in Microservice Architecture, C
 - **REST** | **GraphQL**
 - **GitHub Actions** | **Maven**
 - **TCP** | **UDP** | **SIP**
-- 
+- **HTTP** | **IP**
 
 ## Interests
 - Exploring **microservice architectures**
